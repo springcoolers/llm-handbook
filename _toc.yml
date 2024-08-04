@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: _contents/intro
+chapters:
+
+- file: _contents/llm-engineering/intro
+  sections:
+  - glob: _contents/llm-engineering/sections/**
+
+- file: _contents/embedding-and-model-combining/intro
+  sections:
+  - glob: _contents/embedding-and-model-combining/sections/**
+
+- file: _contents/finetuning-for-llms/intro
+  sections:
+  - glob: _contents/finetuning-for-llms/sections/**
