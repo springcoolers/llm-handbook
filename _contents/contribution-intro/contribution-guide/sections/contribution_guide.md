@@ -1,6 +1,8 @@
 
 # Contribution Guide
 
+- Read this
+
 
 이 페이지는 llm_handbook 오픈소스 프로젝트에 기여하는 방법을 알려드리기 위한 가이드 문서입니다.
 
